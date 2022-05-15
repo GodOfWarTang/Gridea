@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gridea-chi.vercel.app</id>
     <title>Gridea</title>
-    <updated>2022-05-15T03:15:19.662Z</updated>
+    <updated>2022-05-15T03:24:03.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gridea-chi.vercel.app"/>
     <link rel="self" href="https://gridea-chi.vercel.app/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://gridea-chi.vercel.app/images/avatar.png</logo>
     <icon>https://gridea-chi.vercel.app/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[Gridea同步Github失败的处理方案]]></title>
+        <id>https://gridea-chi.vercel.app/post/gridea-tong-bu-github-shi-bai-de-chu-li-fang-an/</id>
+        <link href="https://gridea-chi.vercel.app/post/gridea-tong-bu-github-shi-bai-de-chu-li-fang-an/">
+        </link>
+        <updated>2022-05-15T03:15:25.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>参考https://www.luoyelusheng.com/post/Gridea%E5%90%8C%E6%AD%A5github%E5%A4%B1%E8%B4%A5%E6%9C%80%E7%BB%88%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/，中途遇到的问题是自己的科学上网工具是ClashX，对外的代理端口是7890<img src="https://gridea-chi.vercel.app/post-images/1652584856558.png" alt="" loading="lazy"></li>
+<li>退出Gridea再同步也会偶发的成功</li>
+<li>自己手动把Documents/Gridea/output项目push</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
         <id>https://gridea-chi.vercel.app/post/hello-world/</id>
